@@ -11,8 +11,7 @@ DATASET   = "dataset/pokemon_full.json"
 EV_INDEX  = "dataset/evolution_index.json"
 EV_DIR    = "dataset/evolutions"
 IMAGE_DIR = "images"
-POKEMON_HOME_ID = 1   # Pokémon #001
-
+POKEMON_HOME_ID = 1
 
 class Pokedex(QMainWindow):
     def __init__(self):
@@ -45,7 +44,6 @@ class Pokedex(QMainWindow):
     # ---------- UI SETUP ----------
     def setup_ui(self):
         # ===== LOGO CLICK =====
-        # lblLogo phải tồn tại trong UI
         if hasattr(self, "lblLogo"):
             self.lblLogo.mousePressEvent = lambda event: self.jump_to_pokemon_id(POKEMON_HOME_ID)
 
