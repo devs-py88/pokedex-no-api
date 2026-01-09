@@ -11,7 +11,8 @@ abilities, and evolutions using a local dataset.
 - Evolution chain support
 - Fast UI with multithreading
 - Clean PyQt-based interface
-
+## Screenshots
+<img width="1919" height="1199" alt="Screenshot 2026-01-09 213123" src="https://github.com/user-attachments/assets/76bef7b7-7718-4b52-b9d9-a43c46714375" />
 ## Tech Stack
 - Python 3.x
 - PyQt5 / PyQt6
