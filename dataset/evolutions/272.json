@@ -1,0 +1,31 @@
+{
+  "id": 532,
+  "name": "timburr",
+  "evolves_to": [
+    {
+      "id": 533,
+      "name": "gurdurr",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 534,
+          "name": "conkeldurr",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

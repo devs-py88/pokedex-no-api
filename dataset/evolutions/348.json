@@ -1,0 +1,18 @@
+{
+  "id": 677,
+  "name": "espurr",
+  "evolves_to": [
+    {
+      "id": 678,
+      "name": "meowstic",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

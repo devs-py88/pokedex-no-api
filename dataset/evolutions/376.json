@@ -1,0 +1,31 @@
+{
+  "id": 728,
+  "name": "popplio",
+  "evolves_to": [
+    {
+      "id": 729,
+      "name": "brionne",
+      "trigger": "level-up",
+      "min_level": 17,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 730,
+          "name": "primarina",
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 613,
+  "name": "cubchoo",
+  "evolves_to": [
+    {
+      "id": 614,
+      "name": "beartic",
+      "trigger": "level-up",
+      "min_level": 37,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

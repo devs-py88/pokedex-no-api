@@ -1,0 +1,18 @@
+{
+  "id": 627,
+  "name": "rufflet",
+  "evolves_to": [
+    {
+      "id": 628,
+      "name": "braviary",
+      "trigger": "level-up",
+      "min_level": 54,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

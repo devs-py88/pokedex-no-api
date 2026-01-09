@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "name": "tentacool",
+  "evolves_to": [
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

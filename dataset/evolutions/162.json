@@ -1,0 +1,18 @@
+{
+  "id": 322,
+  "name": "numel",
+  "evolves_to": [
+    {
+      "id": 323,
+      "name": "camerupt",
+      "trigger": "level-up",
+      "min_level": 33,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

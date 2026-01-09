@@ -1,0 +1,31 @@
+{
+  "id": 174,
+  "name": "igglybuff",
+  "evolves_to": [
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 40,
+          "name": "wigglytuff",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "moon-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

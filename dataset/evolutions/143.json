@@ -1,0 +1,31 @@
+{
+  "id": 287,
+  "name": "slakoth",
+  "evolves_to": [
+    {
+      "id": 288,
+      "name": "vigoroth",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 289,
+          "name": "slaking",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

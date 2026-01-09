@@ -1,0 +1,31 @@
+{
+  "id": 824,
+  "name": "blipbug",
+  "evolves_to": [
+    {
+      "id": 825,
+      "name": "dottler",
+      "trigger": "level-up",
+      "min_level": 10,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 826,
+          "name": "orbeetle",
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

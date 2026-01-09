@@ -1,0 +1,18 @@
+{
+  "id": 104,
+  "name": "cubone",
+  "evolves_to": [
+    {
+      "id": 105,
+      "name": "marowak",
+      "trigger": "level-up",
+      "min_level": 28,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

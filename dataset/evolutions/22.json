@@ -1,0 +1,30 @@
+{
+  "id": 52,
+  "name": "meowth",
+  "evolves_to": [
+    {
+      "id": 53,
+      "name": "persian",
+      "trigger": "level-up",
+      "min_level": 28,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 863,
+      "name": "perrserker",
+      "trigger": "level-up",
+      "min_level": 28,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

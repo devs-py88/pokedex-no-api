@@ -1,0 +1,31 @@
+{
+  "id": 328,
+  "name": "trapinch",
+  "evolves_to": [
+    {
+      "id": 329,
+      "name": "vibrava",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 330,
+          "name": "flygon",
+          "trigger": "level-up",
+          "min_level": 45,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 418,
+  "name": "buizel",
+  "evolves_to": [
+    {
+      "id": 419,
+      "name": "floatzel",
+      "trigger": "level-up",
+      "min_level": 26,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

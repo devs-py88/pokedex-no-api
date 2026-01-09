@@ -1,0 +1,18 @@
+{
+  "id": 953,
+  "name": "rellor",
+  "evolves_to": [
+    {
+      "id": 954,
+      "name": "rabsca",
+      "trigger": "other",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

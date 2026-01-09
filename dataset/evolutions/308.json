@@ -1,0 +1,31 @@
+{
+  "id": 607,
+  "name": "litwick",
+  "evolves_to": [
+    {
+      "id": 608,
+      "name": "lampent",
+      "trigger": "level-up",
+      "min_level": 41,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 609,
+          "name": "chandelure",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dusk-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

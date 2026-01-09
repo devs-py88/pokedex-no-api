@@ -1,0 +1,31 @@
+{
+  "id": 116,
+  "name": "horsea",
+  "evolves_to": [
+    {
+      "id": 117,
+      "name": "seadra",
+      "trigger": "level-up",
+      "min_level": 32,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 230,
+          "name": "kingdra",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "dragon-scale",
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

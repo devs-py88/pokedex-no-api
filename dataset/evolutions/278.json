@@ -1,0 +1,18 @@
+{
+  "id": 546,
+  "name": "cottonee",
+  "evolves_to": [
+    {
+      "id": 547,
+      "name": "whimsicott",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "sun-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

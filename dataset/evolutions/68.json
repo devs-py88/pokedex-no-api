@@ -1,0 +1,31 @@
+{
+  "id": 137,
+  "name": "porygon",
+  "evolves_to": [
+    {
+      "id": 233,
+      "name": "porygon2",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": "up-grade",
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 474,
+          "name": "porygon-z",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "dubious-disc",
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

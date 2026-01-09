@@ -1,0 +1,31 @@
+{
+  "id": 220,
+  "name": "swinub",
+  "evolves_to": [
+    {
+      "id": 221,
+      "name": "piloswine",
+      "trigger": "level-up",
+      "min_level": 33,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 473,
+          "name": "mamoswine",
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": "ancient-power",
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

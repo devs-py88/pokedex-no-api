@@ -1,0 +1,31 @@
+{
+  "id": 440,
+  "name": "happiny",
+  "evolves_to": [
+    {
+      "id": 113,
+      "name": "chansey",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": "oval-stone",
+      "time_of_day": "day",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 242,
+          "name": "blissey",
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

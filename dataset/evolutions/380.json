@@ -1,0 +1,18 @@
+{
+  "id": 739,
+  "name": "crabrawler",
+  "evolves_to": [
+    {
+      "id": 740,
+      "name": "crabominable",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": "mount-lanakila",
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

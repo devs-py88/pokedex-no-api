@@ -1,0 +1,18 @@
+{
+  "id": 231,
+  "name": "phanpy",
+  "evolves_to": [
+    {
+      "id": 232,
+      "name": "donphan",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

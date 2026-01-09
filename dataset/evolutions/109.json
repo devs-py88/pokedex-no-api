@@ -1,0 +1,30 @@
+{
+  "id": 215,
+  "name": "sneasel",
+  "evolves_to": [
+    {
+      "id": 461,
+      "name": "weavile",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": "razor-claw",
+      "time_of_day": "night",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 903,
+      "name": "sneasler",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": "razor-claw",
+      "time_of_day": "day",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

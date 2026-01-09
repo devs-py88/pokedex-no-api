@@ -1,0 +1,18 @@
+{
+  "id": 451,
+  "name": "skorupi",
+  "evolves_to": [
+    {
+      "id": 452,
+      "name": "drapion",
+      "trigger": "level-up",
+      "min_level": 40,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 129,
+  "name": "magikarp",
+  "evolves_to": [
+    {
+      "id": 130,
+      "name": "gyarados",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

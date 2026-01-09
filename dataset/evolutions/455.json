@@ -1,0 +1,18 @@
+{
+  "id": 872,
+  "name": "snom",
+  "evolves_to": [
+    {
+      "id": 873,
+      "name": "frosmoth",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "night",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

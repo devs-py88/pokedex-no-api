@@ -1,0 +1,18 @@
+{
+  "id": 667,
+  "name": "litleo",
+  "evolves_to": [
+    {
+      "id": 668,
+      "name": "pyroar",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 325,
+  "name": "spoink",
+  "evolves_to": [
+    {
+      "id": 326,
+      "name": "grumpig",
+      "trigger": "level-up",
+      "min_level": 32,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

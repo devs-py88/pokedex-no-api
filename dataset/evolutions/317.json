@@ -1,0 +1,31 @@
+{
+  "id": 624,
+  "name": "pawniard",
+  "evolves_to": [
+    {
+      "id": 625,
+      "name": "bisharp",
+      "trigger": "level-up",
+      "min_level": 52,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 983,
+          "name": "kingambit",
+          "trigger": "other",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

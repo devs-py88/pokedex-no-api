@@ -1,0 +1,18 @@
+{
+  "id": 513,
+  "name": "pansear",
+  "evolves_to": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "fire-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

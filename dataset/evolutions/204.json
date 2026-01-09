@@ -1,0 +1,31 @@
+{
+  "id": 390,
+  "name": "chimchar",
+  "evolves_to": [
+    {
+      "id": 391,
+      "name": "monferno",
+      "trigger": "level-up",
+      "min_level": 14,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 392,
+          "name": "infernape",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

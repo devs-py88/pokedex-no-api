@@ -1,0 +1,18 @@
+{
+  "id": 522,
+  "name": "blitzle",
+  "evolves_to": [
+    {
+      "id": 523,
+      "name": "zebstrika",
+      "trigger": "level-up",
+      "min_level": 27,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

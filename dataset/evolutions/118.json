@@ -1,0 +1,18 @@
+{
+  "id": 228,
+  "name": "houndour",
+  "evolves_to": [
+    {
+      "id": 229,
+      "name": "houndoom",
+      "trigger": "level-up",
+      "min_level": 24,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

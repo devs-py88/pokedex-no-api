@@ -1,0 +1,18 @@
+{
+  "id": 944,
+  "name": "shroodle",
+  "evolves_to": [
+    {
+      "id": 945,
+      "name": "grafaiai",
+      "trigger": "level-up",
+      "min_level": 28,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

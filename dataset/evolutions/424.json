@@ -1,0 +1,18 @@
+{
+  "id": 803,
+  "name": "poipole",
+  "evolves_to": [
+    {
+      "id": 804,
+      "name": "naganadel",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": "dragon-pulse",
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 854,
+  "name": "sinistea",
+  "evolves_to": [
+    {
+      "id": 855,
+      "name": "polteageist",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "cracked-pot",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

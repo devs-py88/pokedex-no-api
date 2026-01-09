@@ -1,0 +1,31 @@
+{
+  "id": 906,
+  "name": "sprigatito",
+  "evolves_to": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "trigger": "level-up",
+      "min_level": 16,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 908,
+          "name": "meowscarada",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

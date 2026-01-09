@@ -1,0 +1,18 @@
+{
+  "id": 167,
+  "name": "spinarak",
+  "evolves_to": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "trigger": "level-up",
+      "min_level": 22,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

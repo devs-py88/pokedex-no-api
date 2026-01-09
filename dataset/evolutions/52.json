@@ -1,0 +1,18 @@
+{
+  "id": 114,
+  "name": "tangela",
+  "evolves_to": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": "ancient-power",
+      "evolves_to": []
+    }
+  ]
+}

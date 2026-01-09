@@ -1,0 +1,18 @@
+{
+  "id": 207,
+  "name": "gligar",
+  "evolves_to": [
+    {
+      "id": 472,
+      "name": "gliscor",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": "razor-fang",
+      "time_of_day": "night",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

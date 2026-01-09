@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "name": "bulbasaur",
+  "evolves_to": [
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "trigger": "level-up",
+      "min_level": 16,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 3,
+          "name": "venusaur",
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

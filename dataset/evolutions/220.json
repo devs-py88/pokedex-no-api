@@ -1,0 +1,18 @@
+{
+  "id": 427,
+  "name": "buneary",
+  "evolves_to": [
+    {
+      "id": 428,
+      "name": "lopunny",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 420,
+  "name": "cherubi",
+  "evolves_to": [
+    {
+      "id": 421,
+      "name": "cherrim",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

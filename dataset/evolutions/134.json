@@ -1,0 +1,31 @@
+{
+  "id": 263,
+  "name": "zigzagoon",
+  "evolves_to": [
+    {
+      "id": 264,
+      "name": "linoone",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 862,
+          "name": "obstagoon",
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "night",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

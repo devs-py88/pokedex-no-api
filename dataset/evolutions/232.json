@@ -1,0 +1,18 @@
+{
+  "id": 447,
+  "name": "riolu",
+  "evolves_to": [
+    {
+      "id": 448,
+      "name": "lucario",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "day",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

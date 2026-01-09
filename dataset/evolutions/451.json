@@ -1,0 +1,31 @@
+{
+  "id": 859,
+  "name": "impidimp",
+  "evolves_to": [
+    {
+      "id": 860,
+      "name": "morgrem",
+      "trigger": "level-up",
+      "min_level": 32,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 861,
+          "name": "grimmsnarl",
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

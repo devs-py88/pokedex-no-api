@@ -1,0 +1,18 @@
+{
+  "id": 177,
+  "name": "natu",
+  "evolves_to": [
+    {
+      "id": 178,
+      "name": "xatu",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 19,
+  "name": "rattata",
+  "evolves_to": [
+    {
+      "id": 20,
+      "name": "raticate",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 236,
+  "name": "tyrogue",
+  "evolves_to": [
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

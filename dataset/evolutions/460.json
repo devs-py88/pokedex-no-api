@@ -1,0 +1,18 @@
+{
+  "id": 878,
+  "name": "cufant",
+  "evolves_to": [
+    {
+      "id": 879,
+      "name": "copperajah",
+      "trigger": "level-up",
+      "min_level": 34,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 412,
+  "name": "burmy",
+  "evolves_to": [
+    {
+      "id": 413,
+      "name": "wormadam",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 414,
+      "name": "mothim",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

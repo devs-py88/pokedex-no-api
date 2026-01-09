@@ -1,0 +1,30 @@
+{
+  "id": 935,
+  "name": "charcadet",
+  "evolves_to": [
+    {
+      "id": 936,
+      "name": "armarouge",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "auspicious-armor",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 937,
+      "name": "ceruledge",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "malicious-armor",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

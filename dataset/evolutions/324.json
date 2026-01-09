@@ -1,0 +1,18 @@
+{
+  "id": 636,
+  "name": "larvesta",
+  "evolves_to": [
+    {
+      "id": 637,
+      "name": "volcarona",
+      "trigger": "level-up",
+      "min_level": 59,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

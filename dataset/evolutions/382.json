@@ -1,0 +1,18 @@
+{
+  "id": 742,
+  "name": "cutiefly",
+  "evolves_to": [
+    {
+      "id": 743,
+      "name": "ribombee",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

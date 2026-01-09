@@ -1,0 +1,18 @@
+{
+  "id": 90,
+  "name": "shellder",
+  "evolves_to": [
+    {
+      "id": 91,
+      "name": "cloyster",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "water-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

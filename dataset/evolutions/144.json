@@ -1,0 +1,30 @@
+{
+  "id": 290,
+  "name": "nincada",
+  "evolves_to": [
+    {
+      "id": 291,
+      "name": "ninjask",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 292,
+      "name": "shedinja",
+      "trigger": "shed",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

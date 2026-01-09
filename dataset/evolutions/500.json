@@ -1,0 +1,18 @@
+{
+  "id": 955,
+  "name": "flittle",
+  "evolves_to": [
+    {
+      "id": 956,
+      "name": "espathra",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

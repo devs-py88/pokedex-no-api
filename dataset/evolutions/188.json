@@ -1,0 +1,30 @@
+{
+  "id": 366,
+  "name": "clamperl",
+  "evolves_to": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": "deep-sea-tooth",
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 368,
+      "name": "gorebyss",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": "deep-sea-scale",
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

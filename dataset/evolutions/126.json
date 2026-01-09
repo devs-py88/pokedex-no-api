@@ -1,0 +1,31 @@
+{
+  "id": 246,
+  "name": "larvitar",
+  "evolves_to": [
+    {
+      "id": 247,
+      "name": "pupitar",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 248,
+          "name": "tyranitar",
+          "trigger": "level-up",
+          "min_level": 55,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

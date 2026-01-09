@@ -1,0 +1,18 @@
+{
+  "id": 46,
+  "name": "paras",
+  "evolves_to": [
+    {
+      "id": 47,
+      "name": "parasect",
+      "trigger": "level-up",
+      "min_level": 24,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

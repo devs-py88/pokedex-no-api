@@ -1,0 +1,31 @@
+{
+  "id": 495,
+  "name": "snivy",
+  "evolves_to": [
+    {
+      "id": 496,
+      "name": "servine",
+      "trigger": "level-up",
+      "min_level": 17,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 497,
+          "name": "serperior",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

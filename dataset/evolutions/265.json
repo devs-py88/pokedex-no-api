@@ -1,0 +1,18 @@
+{
+  "id": 517,
+  "name": "munna",
+  "evolves_to": [
+    {
+      "id": 518,
+      "name": "musharna",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "moon-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

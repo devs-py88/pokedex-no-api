@@ -1,0 +1,18 @@
+{
+  "id": 622,
+  "name": "golett",
+  "evolves_to": [
+    {
+      "id": 623,
+      "name": "golurk",
+      "trigger": "level-up",
+      "min_level": 43,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

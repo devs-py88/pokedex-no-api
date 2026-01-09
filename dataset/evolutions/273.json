@@ -1,0 +1,31 @@
+{
+  "id": 535,
+  "name": "tympole",
+  "evolves_to": [
+    {
+      "id": 536,
+      "name": "palpitoad",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 537,
+          "name": "seismitoad",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

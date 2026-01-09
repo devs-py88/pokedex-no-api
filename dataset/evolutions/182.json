@@ -1,0 +1,31 @@
+{
+  "id": 355,
+  "name": "duskull",
+  "evolves_to": [
+    {
+      "id": 356,
+      "name": "dusclops",
+      "trigger": "level-up",
+      "min_level": 37,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 477,
+          "name": "dusknoir",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "reaper-cloth",
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

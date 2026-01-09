@@ -1,0 +1,43 @@
+{
+  "id": 43,
+  "name": "oddish",
+  "evolves_to": [
+    {
+      "id": 44,
+      "name": "gloom",
+      "trigger": "level-up",
+      "min_level": 21,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 45,
+          "name": "vileplume",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "leaf-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        },
+        {
+          "id": 182,
+          "name": "bellossom",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "sun-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

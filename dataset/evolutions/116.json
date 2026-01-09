@@ -1,0 +1,18 @@
+{
+  "id": 458,
+  "name": "mantyke",
+  "evolves_to": [
+    {
+      "id": 226,
+      "name": "mantine",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

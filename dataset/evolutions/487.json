@@ -1,0 +1,31 @@
+{
+  "id": 928,
+  "name": "smoliv",
+  "evolves_to": [
+    {
+      "id": 929,
+      "name": "dolliv",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 930,
+          "name": "arboliva",
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

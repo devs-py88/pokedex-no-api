@@ -1,0 +1,18 @@
+{
+  "id": 999,
+  "name": "gimmighoul",
+  "evolves_to": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "trigger": "other",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

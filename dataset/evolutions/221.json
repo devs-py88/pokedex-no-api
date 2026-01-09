@@ -1,0 +1,18 @@
+{
+  "id": 431,
+  "name": "glameow",
+  "evolves_to": [
+    {
+      "id": 432,
+      "name": "purugly",
+      "trigger": "level-up",
+      "min_level": 38,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

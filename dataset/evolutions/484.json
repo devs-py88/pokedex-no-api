@@ -1,0 +1,31 @@
+{
+  "id": 921,
+  "name": "pawmi",
+  "evolves_to": [
+    {
+      "id": 922,
+      "name": "pawmo",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 923,
+          "name": "pawmot",
+          "trigger": "other",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

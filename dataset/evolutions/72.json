@@ -1,0 +1,18 @@
+{
+  "id": 446,
+  "name": "munchlax",
+  "evolves_to": [
+    {
+      "id": 143,
+      "name": "snorlax",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 371,
+  "name": "bagon",
+  "evolves_to": [
+    {
+      "id": 372,
+      "name": "shelgon",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 373,
+          "name": "salamence",
+          "trigger": "level-up",
+          "min_level": 50,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

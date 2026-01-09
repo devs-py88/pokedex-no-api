@@ -1,0 +1,31 @@
+{
+  "id": 374,
+  "name": "beldum",
+  "evolves_to": [
+    {
+      "id": 375,
+      "name": "metang",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 376,
+          "name": "metagross",
+          "trigger": "level-up",
+          "min_level": 45,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

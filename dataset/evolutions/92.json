@@ -1,0 +1,31 @@
+{
+  "id": 187,
+  "name": "hoppip",
+  "evolves_to": [
+    {
+      "id": 188,
+      "name": "skiploom",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 189,
+          "name": "jumpluff",
+          "trigger": "level-up",
+          "min_level": 27,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

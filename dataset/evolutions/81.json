@@ -1,0 +1,31 @@
+{
+  "id": 158,
+  "name": "totodile",
+  "evolves_to": [
+    {
+      "id": 159,
+      "name": "croconaw",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 160,
+          "name": "feraligatr",
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

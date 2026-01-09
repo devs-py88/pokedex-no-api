@@ -1,0 +1,31 @@
+{
+  "id": 736,
+  "name": "grubbin",
+  "evolves_to": [
+    {
+      "id": 737,
+      "name": "charjabug",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 738,
+          "name": "vikavolt",
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": "vast-poni-canyon",
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

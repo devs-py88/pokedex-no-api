@@ -1,0 +1,31 @@
+{
+  "id": 387,
+  "name": "turtwig",
+  "evolves_to": [
+    {
+      "id": 388,
+      "name": "grotle",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 389,
+          "name": "torterra",
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

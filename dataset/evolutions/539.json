@@ -1,0 +1,18 @@
+{
+  "id": 1012,
+  "name": "poltchageist",
+  "evolves_to": [
+    {
+      "id": 1013,
+      "name": "sinistcha",
+      "trigger": null,
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": null,
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

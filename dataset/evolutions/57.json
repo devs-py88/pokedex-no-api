@@ -1,0 +1,31 @@
+{
+  "id": 439,
+  "name": "mime-jr",
+  "evolves_to": [
+    {
+      "id": 122,
+      "name": "mr-mime",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": "mimic",
+      "evolves_to": [
+        {
+          "id": 866,
+          "name": "mr-rime",
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 582,
+  "name": "vanillite",
+  "evolves_to": [
+    {
+      "id": 583,
+      "name": "vanillish",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 584,
+          "name": "vanilluxe",
+          "trigger": "level-up",
+          "min_level": 47,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

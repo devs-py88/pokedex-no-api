@@ -1,0 +1,18 @@
+{
+  "id": 843,
+  "name": "silicobra",
+  "evolves_to": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "trigger": "level-up",
+      "min_level": 36,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

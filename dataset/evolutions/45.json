@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "name": "exeggcute",
+  "evolves_to": [
+    {
+      "id": 103,
+      "name": "exeggutor",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "leaf-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

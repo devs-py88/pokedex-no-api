@@ -1,0 +1,30 @@
+{
+  "id": 79,
+  "name": "slowpoke",
+  "evolves_to": [
+    {
+      "id": 80,
+      "name": "slowbro",
+      "trigger": "level-up",
+      "min_level": 37,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 199,
+      "name": "slowking",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": "kings-rock",
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 744,
+  "name": "rockruff",
+  "evolves_to": [
+    {
+      "id": 745,
+      "name": "lycanroc",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "day",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

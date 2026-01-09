@@ -1,0 +1,102 @@
+{
+  "id": 133,
+  "name": "eevee",
+  "evolves_to": [
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "water-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 135,
+      "name": "jolteon",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "thunder-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 136,
+      "name": "flareon",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "fire-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 196,
+      "name": "espeon",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "day",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 197,
+      "name": "umbreon",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "night",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 470,
+      "name": "leafeon",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": "eterna-forest",
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 471,
+      "name": "glaceon",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": "sinnoh-route-217",
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 700,
+      "name": "sylveon",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 341,
+  "name": "corphish",
+  "evolves_to": [
+    {
+      "id": 342,
+      "name": "crawdaunt",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

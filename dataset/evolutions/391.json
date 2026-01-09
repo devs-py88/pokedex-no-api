@@ -1,0 +1,18 @@
+{
+  "id": 759,
+  "name": "stufful",
+  "evolves_to": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "trigger": "level-up",
+      "min_level": 27,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

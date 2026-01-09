@@ -1,0 +1,18 @@
+{
+  "id": 590,
+  "name": "foongus",
+  "evolves_to": [
+    {
+      "id": 591,
+      "name": "amoonguss",
+      "trigger": "level-up",
+      "min_level": 39,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 580,
+  "name": "ducklett",
+  "evolves_to": [
+    {
+      "id": 581,
+      "name": "swanna",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

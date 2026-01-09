@@ -1,0 +1,31 @@
+{
+  "id": 610,
+  "name": "axew",
+  "evolves_to": [
+    {
+      "id": 611,
+      "name": "fraxure",
+      "trigger": "level-up",
+      "min_level": 38,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 612,
+          "name": "haxorus",
+          "trigger": "level-up",
+          "min_level": 48,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

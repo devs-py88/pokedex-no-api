@@ -1,0 +1,31 @@
+{
+  "id": 155,
+  "name": "cyndaquil",
+  "evolves_to": [
+    {
+      "id": 156,
+      "name": "quilava",
+      "trigger": "level-up",
+      "min_level": 14,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 157,
+          "name": "typhlosion",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

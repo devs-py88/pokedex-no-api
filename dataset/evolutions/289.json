@@ -1,0 +1,18 @@
+{
+  "id": 566,
+  "name": "archen",
+  "evolves_to": [
+    {
+      "id": 567,
+      "name": "archeops",
+      "trigger": "level-up",
+      "min_level": 37,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

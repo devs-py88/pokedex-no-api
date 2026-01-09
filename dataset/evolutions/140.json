@@ -1,0 +1,43 @@
+{
+  "id": 280,
+  "name": "ralts",
+  "evolves_to": [
+    {
+      "id": 281,
+      "name": "kirlia",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 282,
+          "name": "gardevoir",
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        },
+        {
+          "id": 475,
+          "name": "gallade",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dawn-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

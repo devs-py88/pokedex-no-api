@@ -1,0 +1,31 @@
+{
+  "id": 577,
+  "name": "solosis",
+  "evolves_to": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "trigger": "level-up",
+      "min_level": 32,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 579,
+          "name": "reuniclus",
+          "trigger": "level-up",
+          "min_level": 41,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

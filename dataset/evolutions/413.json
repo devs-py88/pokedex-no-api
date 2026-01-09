@@ -1,0 +1,43 @@
+{
+  "id": 789,
+  "name": "cosmog",
+  "evolves_to": [
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "trigger": "level-up",
+      "min_level": 43,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 791,
+          "name": "solgaleo",
+          "trigger": "level-up",
+          "min_level": 53,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        },
+        {
+          "id": 792,
+          "name": "lunala",
+          "trigger": "level-up",
+          "min_level": 53,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

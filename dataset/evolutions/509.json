@@ -1,0 +1,18 @@
+{
+  "id": 971,
+  "name": "greavard",
+  "evolves_to": [
+    {
+      "id": 972,
+      "name": "houndstone",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "night",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

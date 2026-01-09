@@ -1,0 +1,18 @@
+{
+  "id": 511,
+  "name": "pansage",
+  "evolves_to": [
+    {
+      "id": 512,
+      "name": "simisage",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "leaf-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

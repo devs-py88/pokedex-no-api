@@ -1,0 +1,18 @@
+{
+  "id": 300,
+  "name": "skitty",
+  "evolves_to": [
+    {
+      "id": 301,
+      "name": "delcatty",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "moon-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

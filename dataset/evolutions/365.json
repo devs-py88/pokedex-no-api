@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "name": "pumpkaboo",
+  "evolves_to": [
+    {
+      "id": 711,
+      "name": "gourgeist",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

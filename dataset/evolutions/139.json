@@ -1,0 +1,18 @@
+{
+  "id": 278,
+  "name": "wingull",
+  "evolves_to": [
+    {
+      "id": 279,
+      "name": "pelipper",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 273,
+  "name": "seedot",
+  "evolves_to": [
+    {
+      "id": 274,
+      "name": "nuzleaf",
+      "trigger": "level-up",
+      "min_level": 14,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 275,
+          "name": "shiftry",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "leaf-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

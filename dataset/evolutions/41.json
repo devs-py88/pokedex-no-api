@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "name": "onix",
+  "evolves_to": [
+    {
+      "id": 208,
+      "name": "steelix",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": "metal-coat",
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

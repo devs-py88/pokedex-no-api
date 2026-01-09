@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "name": "weedle",
+  "evolves_to": [
+    {
+      "id": 14,
+      "name": "kakuna",
+      "trigger": "level-up",
+      "min_level": 7,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 15,
+          "name": "beedrill",
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

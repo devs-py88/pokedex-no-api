@@ -1,0 +1,43 @@
+{
+  "id": 60,
+  "name": "poliwag",
+  "evolves_to": [
+    {
+      "id": 61,
+      "name": "poliwhirl",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 62,
+          "name": "poliwrath",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "water-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        },
+        {
+          "id": 186,
+          "name": "politoed",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "kings-rock",
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 659,
+  "name": "bunnelby",
+  "evolves_to": [
+    {
+      "id": 660,
+      "name": "diggersby",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

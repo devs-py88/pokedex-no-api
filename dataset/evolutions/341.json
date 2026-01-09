@@ -1,0 +1,31 @@
+{
+  "id": 661,
+  "name": "fletchling",
+  "evolves_to": [
+    {
+      "id": 662,
+      "name": "fletchinder",
+      "trigger": "level-up",
+      "min_level": 17,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 663,
+          "name": "talonflame",
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

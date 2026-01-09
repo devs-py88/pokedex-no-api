@@ -1,0 +1,18 @@
+{
+  "id": 234,
+  "name": "stantler",
+  "evolves_to": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "trigger": "agile-style-move",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": "psyshield-bash",
+      "evolves_to": []
+    }
+  ]
+}

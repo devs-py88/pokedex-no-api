@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "name": "helioptile",
+  "evolves_to": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "sun-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

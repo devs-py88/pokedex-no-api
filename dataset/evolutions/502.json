@@ -1,0 +1,18 @@
+{
+  "id": 960,
+  "name": "wiglett",
+  "evolves_to": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "trigger": "level-up",
+      "min_level": 26,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

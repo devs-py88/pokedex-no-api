@@ -1,0 +1,18 @@
+{
+  "id": 191,
+  "name": "sunkern",
+  "evolves_to": [
+    {
+      "id": 192,
+      "name": "sunflora",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "sun-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

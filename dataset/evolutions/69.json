@@ -1,0 +1,18 @@
+{
+  "id": 138,
+  "name": "omanyte",
+  "evolves_to": [
+    {
+      "id": 139,
+      "name": "omastar",
+      "trigger": "level-up",
+      "min_level": 40,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

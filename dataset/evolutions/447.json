@@ -1,0 +1,18 @@
+{
+  "id": 850,
+  "name": "sizzlipede",
+  "evolves_to": [
+    {
+      "id": 851,
+      "name": "centiskorch",
+      "trigger": "level-up",
+      "min_level": 28,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

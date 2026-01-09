@@ -1,0 +1,30 @@
+{
+  "id": 194,
+  "name": "wooper",
+  "evolves_to": [
+    {
+      "id": 195,
+      "name": "quagsire",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 980,
+      "name": "clodsire",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 761,
+  "name": "bounsweet",
+  "evolves_to": [
+    {
+      "id": 762,
+      "name": "steenee",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 763,
+          "name": "tsareena",
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": "stomp",
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

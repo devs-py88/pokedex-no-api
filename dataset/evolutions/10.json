@@ -1,0 +1,31 @@
+{
+  "id": 172,
+  "name": "pichu",
+  "evolves_to": [
+    {
+      "id": 25,
+      "name": "pikachu",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 26,
+          "name": "raichu",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

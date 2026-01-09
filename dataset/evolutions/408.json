@@ -1,0 +1,31 @@
+{
+  "id": 782,
+  "name": "jangmo-o",
+  "evolves_to": [
+    {
+      "id": 783,
+      "name": "hakamo-o",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 784,
+          "name": "kommo-o",
+          "trigger": "level-up",
+          "min_level": 45,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

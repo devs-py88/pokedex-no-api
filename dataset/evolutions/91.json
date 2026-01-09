@@ -1,0 +1,18 @@
+{
+  "id": 438,
+  "name": "bonsly",
+  "evolves_to": [
+    {
+      "id": 185,
+      "name": "sudowoodo",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": "mimic",
+      "evolves_to": []
+    }
+  ]
+}

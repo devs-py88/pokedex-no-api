@@ -1,0 +1,55 @@
+{
+  "id": 840,
+  "name": "applin",
+  "evolves_to": [
+    {
+      "id": 841,
+      "name": "flapple",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "tart-apple",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 842,
+      "name": "appletun",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "sweet-apple",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 1011,
+      "name": "dipplin",
+      "trigger": null,
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": null,
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 1019,
+          "name": "hydrapple",
+          "trigger": null,
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": null,
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

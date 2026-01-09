@@ -1,0 +1,31 @@
+{
+  "id": 885,
+  "name": "dreepy",
+  "evolves_to": [
+    {
+      "id": 886,
+      "name": "drakloak",
+      "trigger": "level-up",
+      "min_level": 50,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 887,
+          "name": "dragapult",
+          "trigger": "level-up",
+          "min_level": 60,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

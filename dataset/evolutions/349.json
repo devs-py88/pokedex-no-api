@@ -1,0 +1,31 @@
+{
+  "id": 679,
+  "name": "honedge",
+  "evolves_to": [
+    {
+      "id": 680,
+      "name": "doublade",
+      "trigger": "level-up",
+      "min_level": 35,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 681,
+          "name": "aegislash",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dusk-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

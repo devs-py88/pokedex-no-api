@@ -1,0 +1,18 @@
+{
+  "id": 938,
+  "name": "tadbulb",
+  "evolves_to": [
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "thunder-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

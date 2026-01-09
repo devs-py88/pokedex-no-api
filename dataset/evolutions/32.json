@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "name": "ponyta",
+  "evolves_to": [
+    {
+      "id": 78,
+      "name": "rapidash",
+      "trigger": "level-up",
+      "min_level": 40,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

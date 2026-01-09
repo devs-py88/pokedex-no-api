@@ -1,0 +1,31 @@
+{
+  "id": 837,
+  "name": "rolycoly",
+  "evolves_to": [
+    {
+      "id": 838,
+      "name": "carkol",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 839,
+          "name": "coalossal",
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

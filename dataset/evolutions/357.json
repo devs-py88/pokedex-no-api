@@ -1,0 +1,18 @@
+{
+  "id": 696,
+  "name": "tyrunt",
+  "evolves_to": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "trigger": "level-up",
+      "min_level": 39,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "day",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

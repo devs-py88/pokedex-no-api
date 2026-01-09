@@ -1,0 +1,18 @@
+{
+  "id": 349,
+  "name": "feebas",
+  "evolves_to": [
+    {
+      "id": 350,
+      "name": "milotic",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

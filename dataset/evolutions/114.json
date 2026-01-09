@@ -1,0 +1,18 @@
+{
+  "id": 223,
+  "name": "remoraid",
+  "evolves_to": [
+    {
+      "id": 224,
+      "name": "octillery",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

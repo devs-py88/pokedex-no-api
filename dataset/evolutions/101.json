@@ -1,0 +1,18 @@
+{
+  "id": 203,
+  "name": "girafarig",
+  "evolves_to": [
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": "twin-beam",
+      "evolves_to": []
+    }
+  ]
+}

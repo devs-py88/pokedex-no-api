@@ -1,0 +1,30 @@
+{
+  "id": 361,
+  "name": "snorunt",
+  "evolves_to": [
+    {
+      "id": 362,
+      "name": "glalie",
+      "trigger": "level-up",
+      "min_level": 42,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 478,
+      "name": "froslass",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "dawn-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

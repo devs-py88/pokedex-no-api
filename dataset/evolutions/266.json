@@ -1,0 +1,31 @@
+{
+  "id": 519,
+  "name": "pidove",
+  "evolves_to": [
+    {
+      "id": 520,
+      "name": "tranquill",
+      "trigger": "level-up",
+      "min_level": 21,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 521,
+          "name": "unfezant",
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

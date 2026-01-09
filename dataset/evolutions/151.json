@@ -1,0 +1,31 @@
+{
+  "id": 304,
+  "name": "aron",
+  "evolves_to": [
+    {
+      "id": 305,
+      "name": "lairon",
+      "trigger": "level-up",
+      "min_level": 32,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 306,
+          "name": "aggron",
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

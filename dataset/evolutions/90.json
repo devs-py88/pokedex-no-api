@@ -1,0 +1,31 @@
+{
+  "id": 298,
+  "name": "azurill",
+  "evolves_to": [
+    {
+      "id": 183,
+      "name": "marill",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 184,
+          "name": "azumarill",
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

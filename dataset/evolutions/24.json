@@ -1,0 +1,31 @@
+{
+  "id": 56,
+  "name": "mankey",
+  "evolves_to": [
+    {
+      "id": 57,
+      "name": "primeape",
+      "trigger": "level-up",
+      "min_level": 28,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 979,
+          "name": "annihilape",
+          "trigger": "other",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

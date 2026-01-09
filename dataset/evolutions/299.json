@@ -1,0 +1,18 @@
+{
+  "id": 588,
+  "name": "karrablast",
+  "evolves_to": [
+    {
+      "id": 589,
+      "name": "escavalier",
+      "trigger": "trade",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

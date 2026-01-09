@@ -1,0 +1,31 @@
+{
+  "id": 664,
+  "name": "scatterbug",
+  "evolves_to": [
+    {
+      "id": 665,
+      "name": "spewpa",
+      "trigger": "level-up",
+      "min_level": 9,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 666,
+          "name": "vivillon",
+          "trigger": "level-up",
+          "min_level": 12,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

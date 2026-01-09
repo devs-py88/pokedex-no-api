@@ -1,0 +1,18 @@
+{
+  "id": 118,
+  "name": "goldeen",
+  "evolves_to": [
+    {
+      "id": 119,
+      "name": "seaking",
+      "trigger": "level-up",
+      "min_level": 33,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

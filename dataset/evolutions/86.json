@@ -1,0 +1,18 @@
+{
+  "id": 170,
+  "name": "chinchou",
+  "evolves_to": [
+    {
+      "id": 171,
+      "name": "lanturn",
+      "trigger": "level-up",
+      "min_level": 27,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

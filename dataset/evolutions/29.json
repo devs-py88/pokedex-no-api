@@ -1,0 +1,31 @@
+{
+  "id": 69,
+  "name": "bellsprout",
+  "evolves_to": [
+    {
+      "id": 70,
+      "name": "weepinbell",
+      "trigger": "level-up",
+      "min_level": 21,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 71,
+          "name": "victreebel",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "leaf-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

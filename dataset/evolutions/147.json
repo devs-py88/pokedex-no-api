@@ -1,0 +1,18 @@
+{
+  "id": 299,
+  "name": "nosepass",
+  "evolves_to": [
+    {
+      "id": 476,
+      "name": "probopass",
+      "trigger": "level-up",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": "mt-coronet",
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

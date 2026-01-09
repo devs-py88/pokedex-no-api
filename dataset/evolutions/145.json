@@ -1,0 +1,31 @@
+{
+  "id": 293,
+  "name": "whismur",
+  "evolves_to": [
+    {
+      "id": 294,
+      "name": "loudred",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 295,
+          "name": "exploud",
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

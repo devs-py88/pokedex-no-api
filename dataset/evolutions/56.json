@@ -1,0 +1,18 @@
+{
+  "id": 120,
+  "name": "staryu",
+  "evolves_to": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "water-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

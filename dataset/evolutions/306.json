@@ -1,0 +1,31 @@
+{
+  "id": 602,
+  "name": "tynamo",
+  "evolves_to": [
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "trigger": "level-up",
+      "min_level": 39,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 604,
+          "name": "eelektross",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

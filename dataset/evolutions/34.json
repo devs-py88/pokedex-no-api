@@ -1,0 +1,31 @@
+{
+  "id": 81,
+  "name": "magnemite",
+  "evolves_to": [
+    {
+      "id": 82,
+      "name": "magneton",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 462,
+          "name": "magnezone",
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": "mt-coronet",
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

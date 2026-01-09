@@ -1,0 +1,18 @@
+{
+  "id": 318,
+  "name": "carvanha",
+  "evolves_to": [
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

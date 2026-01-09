@@ -1,0 +1,18 @@
+{
+  "id": 835,
+  "name": "yamper",
+  "evolves_to": [
+    {
+      "id": 836,
+      "name": "boltund",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

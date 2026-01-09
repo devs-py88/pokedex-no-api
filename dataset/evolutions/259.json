@@ -1,0 +1,18 @@
+{
+  "id": 504,
+  "name": "patrat",
+  "evolves_to": [
+    {
+      "id": 505,
+      "name": "watchog",
+      "trigger": "level-up",
+      "min_level": 20,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

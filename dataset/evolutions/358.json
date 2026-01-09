@@ -1,0 +1,18 @@
+{
+  "id": 698,
+  "name": "amaura",
+  "evolves_to": [
+    {
+      "id": 699,
+      "name": "aurorus",
+      "trigger": "level-up",
+      "min_level": 39,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "night",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 915,
+  "name": "lechonk",
+  "evolves_to": [
+    {
+      "id": 916,
+      "name": "oinkologne",
+      "trigger": "level-up",
+      "min_level": 18,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

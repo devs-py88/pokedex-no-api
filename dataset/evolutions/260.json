@@ -1,0 +1,31 @@
+{
+  "id": 506,
+  "name": "lillipup",
+  "evolves_to": [
+    {
+      "id": 507,
+      "name": "herdier",
+      "trigger": "level-up",
+      "min_level": 16,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 508,
+          "name": "stoutland",
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

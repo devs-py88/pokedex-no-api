@@ -1,0 +1,18 @@
+{
+  "id": 200,
+  "name": "misdreavus",
+  "evolves_to": [
+    {
+      "id": 429,
+      "name": "mismagius",
+      "trigger": "use-item",
+      "min_level": null,
+      "item": "dusk-stone",
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 270,
+  "name": "lotad",
+  "evolves_to": [
+    {
+      "id": 271,
+      "name": "lombre",
+      "trigger": "level-up",
+      "min_level": 14,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 272,
+          "name": "ludicolo",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "water-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

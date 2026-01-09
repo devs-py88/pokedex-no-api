@@ -1,0 +1,18 @@
+{
+  "id": 449,
+  "name": "hippopotas",
+  "evolves_to": [
+    {
+      "id": 450,
+      "name": "hippowdon",
+      "trigger": "level-up",
+      "min_level": 34,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

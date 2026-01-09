@@ -1,0 +1,31 @@
+{
+  "id": 403,
+  "name": "shinx",
+  "evolves_to": [
+    {
+      "id": 404,
+      "name": "luxio",
+      "trigger": "level-up",
+      "min_level": 15,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 405,
+          "name": "luxray",
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

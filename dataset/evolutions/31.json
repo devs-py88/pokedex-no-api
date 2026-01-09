@@ -1,0 +1,31 @@
+{
+  "id": 74,
+  "name": "geodude",
+  "evolves_to": [
+    {
+      "id": 75,
+      "name": "graveler",
+      "trigger": "level-up",
+      "min_level": 25,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 76,
+          "name": "golem",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

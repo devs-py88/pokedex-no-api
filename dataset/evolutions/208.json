@@ -1,0 +1,18 @@
+{
+  "id": 401,
+  "name": "kricketot",
+  "evolves_to": [
+    {
+      "id": 402,
+      "name": "kricketune",
+      "trigger": "level-up",
+      "min_level": 10,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

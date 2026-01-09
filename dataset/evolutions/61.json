@@ -1,0 +1,31 @@
+{
+  "id": 240,
+  "name": "magby",
+  "evolves_to": [
+    {
+      "id": 126,
+      "name": "magmar",
+      "trigger": "level-up",
+      "min_level": 30,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 467,
+          "name": "magmortar",
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "magmarizer",
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

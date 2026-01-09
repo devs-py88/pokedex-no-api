@@ -1,0 +1,56 @@
+{
+  "id": 265,
+  "name": "wurmple",
+  "evolves_to": [
+    {
+      "id": 266,
+      "name": "silcoon",
+      "trigger": "level-up",
+      "min_level": 7,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 267,
+          "name": "beautifly",
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "cascoon",
+      "trigger": "level-up",
+      "min_level": 7,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 269,
+          "name": "dustox",
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

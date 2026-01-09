@@ -1,0 +1,30 @@
+{
+  "id": 562,
+  "name": "yamask",
+  "evolves_to": [
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "trigger": "level-up",
+      "min_level": 34,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    },
+    {
+      "id": 867,
+      "name": "runerigus",
+      "trigger": "take-damage",
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

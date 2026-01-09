@@ -1,0 +1,18 @@
+{
+  "id": 884,
+  "name": "duraludon",
+  "evolves_to": [
+    {
+      "id": 1018,
+      "name": "archaludon",
+      "trigger": null,
+      "min_level": null,
+      "item": null,
+      "held_item": null,
+      "time_of_day": null,
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

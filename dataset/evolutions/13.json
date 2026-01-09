@@ -1,0 +1,31 @@
+{
+  "id": 32,
+  "name": "nidoran-m",
+  "evolves_to": [
+    {
+      "id": 33,
+      "name": "nidorino",
+      "trigger": "level-up",
+      "min_level": 16,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 34,
+          "name": "nidoking",
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "moon-stone",
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

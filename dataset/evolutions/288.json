@@ -1,0 +1,18 @@
+{
+  "id": 564,
+  "name": "tirtouga",
+  "evolves_to": [
+    {
+      "id": 565,
+      "name": "carracosta",
+      "trigger": "level-up",
+      "min_level": 37,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": []
+    }
+  ]
+}

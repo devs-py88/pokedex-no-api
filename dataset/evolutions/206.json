@@ -1,0 +1,31 @@
+{
+  "id": 396,
+  "name": "starly",
+  "evolves_to": [
+    {
+      "id": 397,
+      "name": "staravia",
+      "trigger": "level-up",
+      "min_level": 14,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 398,
+          "name": "staraptor",
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 498,
+  "name": "tepig",
+  "evolves_to": [
+    {
+      "id": 499,
+      "name": "pignite",
+      "trigger": "level-up",
+      "min_level": 17,
+      "item": null,
+      "held_item": null,
+      "time_of_day": "",
+      "location": null,
+      "known_move": null,
+      "evolves_to": [
+        {
+          "id": 500,
+          "name": "emboar",
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "time_of_day": "",
+          "location": null,
+          "known_move": null,
+          "evolves_to": []
+        }
+      ]
+    }
+  ]
+}
