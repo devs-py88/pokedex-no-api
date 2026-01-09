@@ -45,7 +45,6 @@ class Pokedex(QMainWindow):
     # ---------- UI SETUP ----------
     def setup_ui(self):
         # ===== LOGO CLICK =====
-        # lblLogo phải tồn tại trong UI
         if hasattr(self, "lblLogo"):
             self.lblLogo.mousePressEvent = lambda event: self.jump_to_pokemon_id(POKEMON_HOME_ID)
 
